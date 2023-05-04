@@ -246,6 +246,7 @@ nav:
   - レイヤーマスク:           layer_mask.md
   - ブラシ:                   brush.md
   - 定規 (ブラシ):            ruler_brush.md
+  - カーブブラシ:             curve_brush.md
   - いろいろな形を描く(矩形, 円, 投げ縄, 多角形): paint_with_shapes.md
   - 変形:                     transform.md
   - ベクターレイヤー:         vector_layer.md
